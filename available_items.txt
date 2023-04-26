@@ -1,0 +1,13 @@
+ITEMS    UNITS PRICE
+Soap  50.0     
+Toothbrush  60.0
+Apple 35.0
+Coffee 5.0
+Kiwi 70.0
+Spinach  20.0
+Cookie_Jar 30.0
+Chips 100.0 
+Water_bottle 150.0
+Juice 50.0
+Milk 30.0
+Eggs  20.0
